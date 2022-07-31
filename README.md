@@ -1,6 +1,6 @@
 # pokemon-game
 
-A fun way to learn basic web.
+A fun way to learn basic web. Live site hosted on Github Pages [here](https://jontheturnip.github.io/pokemon-game/).
 
 ## Part 1 - Getting started
 
